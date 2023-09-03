@@ -1,0 +1,3 @@
+# Introduction
+Evolutionary pressures are crucial to tumorigenesis, progression, and response to therapy. To characterize intratumoral heterogeneity and selection pressures within soft tissue sarcomas, we used a modified method based on previous work (Sun et al. Nat Genet 2017, PMID: 28581503 and Li et al. Genome Biol 2014, PMID: 25253082). The R script in this repository enables estimation of the cancer cell fraction for single nucleotide variants and calculation of intratumoral heterogeneity metrics using next-generation sequencing from spatially distinct tumor regions. Example input files are provided for reference.
+
